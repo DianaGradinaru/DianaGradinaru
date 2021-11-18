@@ -21,3 +21,5 @@ ___
 ___
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=dianagradinaru&show_icons=true&locale=en) ![My Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=dianagradinaru&show_icons=true&locale=en&layout=compact) 
+
+![My Codewars badge](https://www.codewars.com/users/DianaGS/badges/micro)
